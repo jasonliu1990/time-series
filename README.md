@@ -2,6 +2,9 @@
 
 ### 1. ARIMA Model
 使用statsmodels裡的ARIMA模型進行時間序列的預測</br>
+<a href=https://github.com/jasonliu1990/time-series/blob/master/ARIMA_Models_tutorial.ipynb>ARIMA_Models_tutorial</a><br/>
+<a href=https://github.com/jasonliu1990/time-series/blob/master/pm2.5_ARIMA_model.ipynb>pm2.5_ARIMA_model</a><br/>
+
 <code>pip install statsmodels</code></br>
 tutorial: https://github.com/SimiY/pydata-sf-2016-arima-tutorial</br>
 ARIMA(p, d, q), 差分整合移動平均自回歸模型</br>
